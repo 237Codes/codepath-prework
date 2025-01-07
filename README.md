@@ -25,11 +25,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
-1. The UI felt strange at first, finding where the buttons are took me sometime/
+1. The UI initially felt strange finding where the buttons were. I needed a few tries to get used to it.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Manyaka Anjorin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
