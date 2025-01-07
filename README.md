@@ -21,9 +21,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
-### A list of 3 - 5 of my favorite applications with 2-3 features of each
+### A list of 3 of my favorite applications with 2-3 features of each
 
-1. International Money transfer app
+1. SendWave Money transfer app
    - Sending money seamlessly from one country to another.
    - Provide real-time currency conversion with the best market send rates.
 
@@ -32,11 +32,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
    - Link  external cryptocurrency accounts for centralized monitoring of all assets.
    - Transfer cryptocurrency between accounts.
 
-3. Booking System App
+3. Yelp 
    - Allows small business owners to manage appointments
    - Allows clients to book appointments for business services
+   - Allows clients to review local businesses in an area
   
- An app I would like to build would be a course app that allows students to review courses and professors in a given college and allows for video testimonials. The app will allow students to effectively select courses based on my school curriculum and suggest courses required to satisfy gen ed requirements.
+ I want to build a course app that allows students to review courses and professors in a given college and allows for video testimonials. The app will enable students to effectively select classes based on my school curriculum and suggest courses required to satisfy the gen ed requirements of a certain school. 
 
 ## Notes
 
