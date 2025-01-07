@@ -24,17 +24,21 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ### A list of 3 - 5 of my favorite applications with 2-3 features of each
 
 1. International Money transfer app
-   - Sending money seamlessly from one country to another
-   - Provide real-time currency conversion with the best market send rates
+   - Sending money seamlessly from one country to another.
+   - Provide real-time currency conversion with the best market send rates.
 
 3. Cryptocurrency Debit card app
-   - Provide a digital card for online payments with cryptocurrency
-   - Link  external cryptocurrency accounts for centralized monitoring of all assets
-   - Transfer cryptocurrency between accounts
+   - Provide a digital card for online payments with cryptocurrency.
+   - Link  external cryptocurrency accounts for centralized monitoring of all assets.
+   - Transfer cryptocurrency between accounts.
 
 4. Course Reviews App
    - Rate professors for courses offered in my school.
-   - Add video testimonials to advise incoming students on courses and professors to take
+   - Add video testimonials to advise incoming students on courses and professors to take.
+  
+5. Booking System App
+   - Allows small business owners to manage appointments
+   - Allows clients to book appointments for a business services
 
 ## Notes
 
