@@ -1,16 +1,16 @@
-# Prework - *Name of App Here*
+# Prework - *Background Changer App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Manyaka Anjorin**
 
-**Name of your app** is an app that... [TODO] 
+**Background Changer App** is an app that changes the background color based on a random combination of red, green and blue values. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users are able to see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -24,6 +24,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+1. The UI felt strange at first, finding where the buttons are took me sometime/
 
 ## License
 
