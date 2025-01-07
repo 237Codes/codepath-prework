@@ -27,18 +27,16 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
    - Sending money seamlessly from one country to another.
    - Provide real-time currency conversion with the best market send rates.
 
-3. Cryptocurrency Debit card app
+2. Cryptocurrency Debit card app
    - Provide a digital card for online payments with cryptocurrency.
    - Link  external cryptocurrency accounts for centralized monitoring of all assets.
    - Transfer cryptocurrency between accounts.
 
-4. Course Reviews App
-   - Rate professors for courses offered in my school.
-   - Add video testimonials to advise incoming students on courses and professors to take.
-  
-5. Booking System App
+3. Booking System App
    - Allows small business owners to manage appointments
-   - Allows clients to book appointments for a business services
+   - Allows clients to book appointments for business services
+  
+ An app I would like to build would be a course app that allows students to review courses and professors in a given college and allows for video testimonials. The app will allow students to effectively select courses based on my school curriculum and suggest courses required to satisfy gen ed requirements.
 
 ## Notes
 
